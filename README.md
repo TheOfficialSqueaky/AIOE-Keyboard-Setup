@@ -1,6 +1,6 @@
 # AIOE-Keyboard-Setup
 Custom Keyboard with shortcut 
-
+(look at README file and not preview)
 
 Keyboard Layout:
 1 2 3 4 5 6 7 8 9 0 x y =
